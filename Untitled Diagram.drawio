@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T14:36:28.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="M9R6weVajvkoX5nRlQuo" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T14:41:16.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9CeK2jcSwoi-BK6ZyvfK" version="24.4.0" type="github" pages="2">
   <diagram id="bnVQKhchCkehTxedwh1K" name="Page-1">
     <mxGraphModel dx="683" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="XKouPrQqXR5QodsCGFAC-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
           <mxGeometry x="445" y="298.84" width="79" height="47.16" as="geometry" />
+        </mxCell>
+        <mxCell id="XKouPrQqXR5QodsCGFAC-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="203" width="70.26" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
