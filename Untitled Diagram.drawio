@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:27:25.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="r6aSn3qS7WxxQVJuyZr6" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:29:47.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_NY94-vRkgnsUHMTSmi9" version="24.4.0" type="github" pages="2">
   <diagram id="bnVQKhchCkehTxedwh1K" name="Page-1">
     <mxGraphModel dx="683" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="XKouPrQqXR5QodsCGFAC-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="-184" width="717" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="XKouPrQqXR5QodsCGFAC-2" value="&lt;b&gt;BACKGROUND&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XKouPrQqXR5QodsCGFAC-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;BACKGROUND&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4C0099;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-3.5" y="179" width="357" height="118" as="geometry" />
         </mxCell>
         <mxCell id="XKouPrQqXR5QodsCGFAC-3" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
@@ -30,7 +30,7 @@
             <mxPoint x="174.5" y="-74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKouPrQqXR5QodsCGFAC-11" value="FRONTEND" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#66FFFF;" vertex="1" parent="1">
+        <mxCell id="XKouPrQqXR5QodsCGFAC-11" value="FRONTEND" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#66FFFF;fontColor=#FFFFFF;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-6" y="-58" width="357" height="118" as="geometry" />
         </mxCell>
         <mxCell id="XKouPrQqXR5QodsCGFAC-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.402;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
@@ -53,6 +53,12 @@
             <mxPoint x="174.94299999999998" y="169.00600000000009" as="sourcePoint" />
             <mxPoint x="175" y="61" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XKouPrQqXR5QodsCGFAC-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="273" y="-12" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="XKouPrQqXR5QodsCGFAC-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="277" y="225" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
