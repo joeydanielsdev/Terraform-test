@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:31:12.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8zNY140FwglnY0hyO6vs" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:32:05.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uhB8GAH5d6PlzcddwPkC" version="24.4.0" type="github" pages="2">
   <diagram id="bnVQKhchCkehTxedwh1K" name="Page-1">
     <mxGraphModel dx="683" dy="854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,14 +51,14 @@
             <mxPoint x="175" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKouPrQqXR5QodsCGFAC-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="273" y="-12" width="64" height="64" as="geometry" />
-        </mxCell>
         <mxCell id="XKouPrQqXR5QodsCGFAC-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="277" y="225" width="64" height="64" as="geometry" />
+          <mxGeometry x="275" y="206" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="XKouPrQqXR5QodsCGFAC-11" value="FRONTEND" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#66FFFF;fontColor=#FFFFFF;fontSize=15;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="-6" y="-58" width="357" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="XKouPrQqXR5QodsCGFAC-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-24" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
